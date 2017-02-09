@@ -1,0 +1,24 @@
+{
+  "name": "tube",
+  "version": "0.0.1",
+  "description": "WebSocket Messaging Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eflauzo/tube.git"
+  },
+  "keywords": [
+    "WebSocket",
+    "Messaging",
+    "Library"
+  ],
+  "author": "Denys Metelskyy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eflauzo/tube/issues"
+  },
+  "homepage": "https://github.com/eflauzo/tube#readme"
+}
